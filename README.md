@@ -1,7 +1,6 @@
-Se você já enfretou problemas ou dificuldade para importar uma base de dados no formato csv para o Postgres no formato SQL? 
+Have you ever faced problems or difficulties importing a CSV database into Postgres SQL?
 
-Seus problemas acabaram! O projeto ```csv-impoter-postgres``` foi desenvolvido basicamente para resulver essa dor. 
+Your problems are over! The ``` csv-impoter-postgres ``` project was developed primarily to solve this problem.
 
-usando Python e uma interface gráfica chamada Tkinter a princípio basta rodar o programa na sua máquina usando o comando ``` python3 importer.py ``` e em 
-seguida preecher as informações do seu PostgreSQL como o nome da base de dados, (lembrando que o csv vai se transformar em uma tabela, então precisa estar dentro de uma database*), 
-usuário, senha da banco, o nome da tabela que vai representar a base dos dados e claro localizar o arquivo.csv que você deseja importar!
+Using Python and a graphical interface called Tkinter, you simply run the program on your machine using the command ``` python3 importer.py ``` and then fill in your PostgreSQL information, such as the database name (remember that the CSV file will be converted to a table, so it needs to be within a database*),
+username, database password, the name of the table that will represent the database, and of course, locate the CSV file you want to import!
